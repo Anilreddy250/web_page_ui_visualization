@@ -1,0 +1,11 @@
+SYSTEM-HOST-NAME-001
+FAILURE: IO READ OUT FAILED
+ERROR: line number 201
+
+SYSTEM-HOST-NAME-005
+FAILURE:  power cycle failed
+ERROR: line number 305
+
+SYSTEM-HOST-NAME-010
+FAILURE: os error
+ERROR: line number 3478
